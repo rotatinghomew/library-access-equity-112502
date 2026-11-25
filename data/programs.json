@@ -1,0 +1,18 @@
+[
+  {
+    "program_id": "pg-001",
+    "town": "river",
+    "starts_at": "2026-10-04T10:00",
+    "capacity": 25,
+    "access_support": "ramp",
+    "status": "confirmed"
+  },
+  {
+    "program_id": "pg-002",
+    "town": "hill",
+    "starts_at": "2026-10-04T10:00",
+    "capacity": 15,
+    "access_support": "none",
+    "status": "proposed"
+  }
+]

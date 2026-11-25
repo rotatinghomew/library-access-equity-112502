@@ -1,0 +1,32 @@
+[
+  {
+    "loan_id": "l-001",
+    "member_key": "m-1",
+    "household_key": "h-1",
+    "branch_id": "B-01",
+    "item_id": "book-7",
+    "loaned_at": "2026-09-02",
+    "returned_at": "2026-09-18",
+    "kind": "standard"
+  },
+  {
+    "loan_id": "l-002",
+    "member_key": null,
+    "household_key": "h-1",
+    "branch_id": "B-02",
+    "item_id": "book-7",
+    "loaned_at": "2026-09-03",
+    "returned_at": null,
+    "kind": "proxy"
+  },
+  {
+    "loan_id": "l-003",
+    "member_key": "m-2",
+    "household_key": null,
+    "branch_id": "B-02",
+    "item_id": "book-9",
+    "loaned_at": "2026-09-05",
+    "returned_at": null,
+    "kind": "unknown"
+  }
+]

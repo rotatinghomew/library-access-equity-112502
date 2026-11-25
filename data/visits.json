@@ -1,0 +1,18 @@
+[
+  {
+    "visit_id": "v-001",
+    "town": "river",
+    "mode": "mobile_bus",
+    "observed_at": "2026-09-10",
+    "reader_count": 18,
+    "quality": "complete"
+  },
+  {
+    "visit_id": "v-002",
+    "town": "hill",
+    "mode": "online",
+    "observed_at": "2026-09-10",
+    "reader_count": null,
+    "quality": "partial"
+  }
+]

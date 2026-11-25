@@ -1,0 +1,14 @@
+[
+  {
+    "route_id": "rt-001",
+    "vehicle": "bus-a",
+    "towns": [
+      "river",
+      "hill"
+    ],
+    "starts_at": "2026-10-04T09:00",
+    "capacity": 40,
+    "driver": "d-1",
+    "status": "proposed"
+  }
+]

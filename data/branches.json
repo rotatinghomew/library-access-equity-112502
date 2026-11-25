@@ -1,0 +1,14 @@
+[
+  {
+    "branch_id": "B-01",
+    "town": "river",
+    "accessible": true,
+    "active_from": "2026-01-01"
+  },
+  {
+    "branch_id": "B-02",
+    "town": "hill",
+    "accessible": false,
+    "active_from": "2026-01-01"
+  }
+]
